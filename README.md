@@ -1,127 +1,155 @@
-<h1 align="center">Hi 👋, I'm Fadwa Abdulrahman Alsaif</h1>
+```md
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Full Stack Web Developer • Open to Work
-</h3>
+# Hi 👋, I'm Fadwa Abdulrahman Alsaif
 
-<p align="center">
-Passionate about building modern, responsive, and scalable web applications using modern web technologies.
-I enjoy transforming ideas into real products and continuously improving my skills through real-world projects.
-</p>
+### Software Engineer | Full Stack Web Developer | Open to Work & Freelance Projects
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate;Full+Stack+Web+Developer;Frontend+%26+Backend+Developer;Building+Modern+Web+Applications" />
 
-<a href="https://github.com/fadwaxx">
-<img src="https://komarev.com/ghpvc/?username=fadwaxx&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-<a href="https://github.com/fadwaxx?tab=followers">
-<img src="https://img.shields.io/github/followers/fadwaxx?label=Followers&style=social" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
+
+I’m **Fadwa Alsaif**, a Software Engineering graduate and Full Stack Web Developer from Saudi Arabia.
+
+I enjoy building modern, responsive, and user-friendly web applications.  
+I work on both **Front-end** and **Back-end** development, and I’m passionate about turning ideas into real digital products.
 
 - 🎓 Software Engineering Graduate
-- 💼 Open to Full-Time Opportunities & Freelance Projects
-- 🌱 Currently improving my Full Stack Development skills
-- 🚀 Building modern web applications from Front-end to Back-end
-- ❤️ Passionate about UI/UX and clean code
+- 💻 Full Stack Web Developer
+- 🚀 Open to full-time opportunities
+- 🤝 Available for freelance website projects
+- 🌱 Currently improving my React, TypeScript, and Backend skills
+- 🎨 Interested in Web Design, UI/UX, and clean interfaces
 - 📍 Saudi Arabia
 
 ---
 
-# 🚀 Current Focus
+## 💼 What I Do
 
-- Building professional Full Stack Web Applications
-- Expanding my React & TypeScript skills
-- Improving Backend Architecture
-- Learning more about scalable systems
+- Frontend Website Development
+- Backend Development
+- Full Stack Web Applications
+- Admin Dashboards
+- Restaurant Menu & Ordering Systems
+- Responsive Web Design
+- REST API Development
+- MongoDB Database Integration
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
-</p>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
+</div>
 
 ---
 
-# 💼 Featured Project
+## 🚀 Featured Project
 
-## 🍽️ Restaurant Ordering System
+### 🍽️ Foah AlKabsah Restaurant Ordering System
 
-A complete Full Stack restaurant ordering platform including:
+A Full Stack restaurant ordering platform built to help restaurants manage menu items and customer orders.
 
-- Customer Ordering System
-- Shopping Cart
-- Admin Dashboard
-- Menu Management
-- Order Tracking
-- MongoDB Database
+**Main Features:**
+
+- Customer ordering page
+- Shopping cart
+- Admin dashboard
+- Menu management
+- Order tracking
+- MongoDB database
 - REST API
-- Responsive Design
+- Responsive design
+
+**Tech Used:**
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST API`
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Advanced React
 - TypeScript Best Practices
-- REST API Design
 - Backend Security
 - Clean Architecture
+- Professional Project Deployment
+- Scalable Full Stack Systems
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Stats
 
-📧 Email
+<div align="center">
 
-**Fadwax0212@outlook.com**
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fadwaxx&show_icons=true&theme=tokyonight" />
 
-🐙 GitHub
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadwaxx&theme=tokyonight" />
 
-https://github.com/fadwaxx
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadwaxx&layout=compact&theme=tokyonight" />
 
-🎵 TikTok
+</div>
 
-https://www.tiktok.com/@بشيصشزس10
+---
 
-🌐 Portfolio
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fadwaxx&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:Fadwax0212@outlook.com">
+<img src="https://img.shields.io/badge/Email-Fadwax0212%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" />
+</a>
+
+<a href="https://github.com/fadwaxx">
+<img src="https://img.shields.io/badge/GitHub-fadwaxx-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.tiktok.com/@بشيصشزس10">
+<img src="https://img.shields.io/badge/TikTok-@بشيصشزس10-black?style=for-the-badge&logo=tiktok" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Portfolio
 
 Coming Soon...
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=fadwaxx&show_icons=true&theme=tokyonight)
+### Thanks for visiting my profile ⭐
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadwaxx&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadwaxx&layout=compact&theme=tokyonight)
-
----
-
-<h3 align="center">
-Thanks for visiting my profile ⭐
-</h3>
+</div>
+```
